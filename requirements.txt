@@ -1,0 +1,11 @@
+kagglehub==1.0.1
+category_encoders==2.9.0
+supertree==1.0.0
+plotly==6.3.0
+pandas==2.3.3
+scikit-learn==1.7.2
+numpy==2.3.5
+seaborn==0.13.2
+matplotlib==3.10.6
+nbformat>=4.2.0
+shap==0.52.0
