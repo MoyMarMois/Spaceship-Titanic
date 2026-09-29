@@ -9,3 +9,5 @@ seaborn==0.13.2
 matplotlib==3.10.6
 nbformat>=4.2.0
 shap==0.52.0
+catboost
+lightgbm
