@@ -1,5 +1,3 @@
-kagglehub==1.0.1
-category_encoders==2.9.0
 supertree==1.0.0
 plotly==6.3.0
 pandas==2.3.3
