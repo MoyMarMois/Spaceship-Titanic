@@ -48,7 +48,7 @@
 ---
 
 ## 📁 Структура проекта
-
+```text
 ├── data/
 │   ├── sample_submission.csv  
 │   ├── test.csv               
