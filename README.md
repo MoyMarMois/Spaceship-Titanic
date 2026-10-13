@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 Технологии и библиотеки
+## Технологии и библиотеки
 
 * **Data Processing & EDA:** `pandas`, `numpy`, `matplotlib`, `seaborn`
 * **Feature Engineering & Preprocessing:** `scikit-learn` (`StandardScaler`, `KMeans`, `silhouette_score`)
@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Основные этапы работы
+## Основные этапы работы
 
 ### 1. EDA и визуализация пропусков
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 📁 Структура проекта
+## Структура проекта
 ```text
 ├── data/
 │   ├── sample_submission.csv  
