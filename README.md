@@ -1,6 +1,7 @@
 # Spaceship Titanic — Machine Learning Pipeline
 
 Решение соревнования по предсказанию перемещения пассажиров в другое измерение.
+Link: [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) 
 
 ---
 
